@@ -17,6 +17,3 @@ py calculadora.py
 <p align="center">
   <img width="500" src="./Images/EjemploCalc.png">
 </p
-
-> [!TIP]
-> La calculadora también reconoce las operaciones inválidas
