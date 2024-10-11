@@ -15,7 +15,7 @@ py calculadora.py
 ## Demostración de ejecución 
 
 <p align="center">
-  <img width="500" src="./images/EjemploCalc.png">
+  <img width="500" src="./Images/EjemploCalc.png">
 </p
 
 > [!TIP]
