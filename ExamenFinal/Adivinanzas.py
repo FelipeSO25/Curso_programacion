@@ -124,5 +124,5 @@ def jugar():
         else:
             print("Escoja una opcion valida")       
 
-jugar()               
+jugar()        #se inicia el programa        
 
